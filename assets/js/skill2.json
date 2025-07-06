@@ -1,0 +1,90 @@
+[
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+  },
+  /*{
+      "name": "Sass",
+      "icon": "https://img.icons8.com/color/48/000000/sass.png"
+  },*/
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+  },
+  {
+    "name": "ES6",
+    "icon": "https://i.pinimg.com/originals/b5/57/64/b55764416830e7d8b0133c7c0eeaf445.png"
+  },
+  {
+    "name": "jQuery",
+    "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+  },
+  /*{
+      "name": "ReactJS",
+      "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+  },
+  {
+      "name": "Redux",
+      "icon": "https://img.icons8.com/color/48/000000/redux.png"
+  },
+  {
+      "name": "Angular",
+      "icon": "https://cdn.iconscout.com/icon/free/png-256/free-angular-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226066.png?f=webp&w=256"
+  },
+  {
+      "name": "Vue JS",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"
+  },
+  {
+      "name": "Firebase",
+      "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+  },*/
+  {
+    "name": "PHP",
+    "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+  },
+  {
+    "name": "Git VCS",
+    "icon": "https://img.icons8.com/color/48/000000/git.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  },
+  /*{
+      "name": "WordPress Theme Development",
+      "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+  }, */
+  {
+    "name": "laravel",
+    "icon": "https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000"
+  },
+  {
+    "name": "Suitecrm",
+    "icon": "https://docs.suitecrm.com/images/logo-square.png"
+  },
+  {
+    "name": "Sugarcrm",
+    "icon": "assets/js/SugarCrmLogo.png"
+  },
+  /*{
+      "name": "Ethical Hacking",
+      "icon": "assets/js/EthicalHacking.png"
+  }*/
+]
